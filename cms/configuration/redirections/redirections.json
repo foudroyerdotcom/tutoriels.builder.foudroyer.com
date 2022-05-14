@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "from": "/exemples",
+      "to": "/exemples-de-haiku",
+      "statusCode": "301"
+    }
+  ]
+}

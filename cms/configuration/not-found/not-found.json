@@ -1,0 +1,17 @@
+{
+  "label": "Erreur 404",
+  "title": "Page non trouvée",
+  "description": "Nous sommes désolés mais cette page n'existe pas 🙇‍♂️.",
+  "button": {
+    "label": "Retourner à l'accueil",
+    "url": "/",
+    "rel": "follow",
+    "target": "self",
+    "theme": "primary"
+  },
+  "meta": {
+    "indexable": false,
+    "title": "Page non trouvée",
+    "description": "Nous sommes désolés mais cette page n'existe pas 🙇‍♂️."
+  }
+}
