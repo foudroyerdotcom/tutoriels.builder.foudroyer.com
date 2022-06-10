@@ -15113,7 +15113,7 @@ sprintf-js@^1.1.1:
 sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
-  integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
+  integrity sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==
 
 st@^2.0.0:
   version "2.0.0"
@@ -15343,7 +15343,7 @@ strip-ansi@^6.0.0, strip-ansi@^6.0.1:
 strip-bom-string@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/strip-bom-string/-/strip-bom-string-1.0.0.tgz#e5211e9224369fbb81d633a2f00044dc8cedad92"
-  integrity sha1-5SEekiQ2n7uB1jOi8ABE3IztrZI=
+  integrity sha512-uCC2VHvQRYu+lMh4My/sFNmF2klFymLX1wHJeXnbEJERpV/ZsVuonzerjfrGpIGF7LBVa1O7i9kjiWvJiFck8g==
 
 strip-bom@^3.0.0:
   version "3.0.0"
@@ -15375,7 +15375,7 @@ strip-json-comments@^3.1.0, strip-json-comments@^3.1.1:
 strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
-  integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
+  integrity sha512-4gB8na07fecVVkOI6Rs4e7T6NOTki5EmL7TUduTs6bu3EdnSycntVJ4re8kgZA+wx9IueI2Y11bfbgwtzuE0KQ==
 
 strip-outer@^1.0.1:
   version "1.0.1"
@@ -15610,7 +15610,7 @@ tar-stream@^2.1.4:
 teeny-tap@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/teeny-tap/-/teeny-tap-0.2.0.tgz#167e645182d06ac222d62bb2ab67947a70a58a68"
-  integrity sha1-Fn5kUYLQasIi1iuyq2eUenClimg=
+  integrity sha512-HnA3I2sxRQe/SZgQTQgQvvA17DhfzhBJ1LfSOXZ5VUTbxGLvnAqUef84ZGNNSEbk1ZMEIDeghTHZagJ7LifAgg==
 
 term-size@^2.1.0:
   version "2.2.1"
