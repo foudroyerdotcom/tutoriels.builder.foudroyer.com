@@ -2960,9 +2960,9 @@
     nullthrows "^1.1.1"
 
 "@petamoriken/float16@^3.4.7":
-  version "3.6.3"
-  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.6.3.tgz#7ed8f2ae05ea4096f0ccdf2c2655d04aca545d33"
-  integrity sha512-Yx6Z93kmz3JVPYoPPRFJXnt2/G4kfaxRROcZVVHsE4zOClJXvkOVidv/JfvP6hWn16lykbKYKVzUsId6mqXdGg==
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.6.5.tgz#2a5a8c1e405bdd6bcb3e0bf2431bc4a56dec2be0"
+  integrity sha512-m5ox8pj4LfAoTO2GqrqCCD9hNX3I73+Dv2pvdGKFHkNHWQh9Z4q/5Du5+ZBYYotneqrliFWR8olMSdnPhmjU2w==
 
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.3":
   version "0.4.3"
