@@ -17067,9 +17067,9 @@ xml-parse-from-string@^1.0.0:
   integrity sha512-ErcKwJTF54uRzzNMXq2X5sMIy88zJvfN2DmdoQvy7PAFJ+tPRU6ydWuOKNMyfmOjdyBQTFREi60s0Y0SyI0G0g==
 
 xml-utils@^1.0.2:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/xml-utils/-/xml-utils-1.1.0.tgz#d950e145ecb5c02832800419bffe5ff21795c10f"
-  integrity sha512-QyimYENdNHe6sQb+YJM+vFoAzz4ApGMnQltP7IIAMyScvWheHKayire5vD5UB6Vaazi2DwamibeehlQgnrOPXA==
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/xml-utils/-/xml-utils-1.2.0.tgz#6ff0f45087154c6be7004e6dbeeb9eb26ec3f558"
+  integrity sha512-z4unVPZruEDC3tfyd7wvWfjclnMz34iwQpv8H28H+qREpjKkR083MBvcrWXfJrIcrSmHR5ghguOcgQqWdnBpVA==
 
 xml2js@^0.4.5:
   version "0.4.23"
