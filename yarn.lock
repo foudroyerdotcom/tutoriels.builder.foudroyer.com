@@ -3209,9 +3209,9 @@
     form-data "^3.0.0"
 
 "@types/node@*", "@types/node@>=6":
-  version "18.7.20"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.20.tgz#d9442de7b5cb166476340b4271b15300fe058a39"
-  integrity sha512-adzY4vLLr5Uivmx8+zfSJ5fbdgKxX8UMtjtl+17n0B1q1Nz8JEmE151vefMdpD+1gyh+77weN4qEhej/O7budQ==
+  version "18.7.21"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.21.tgz#63ee6688070e456325b6748dc492a7b948593871"
+  integrity sha512-rLFzK5bhM0YPyCoTC8bolBjMk7bwnZ8qeZUBslBfjZQou2ssJdWslx9CZ8DGM+Dx7QXQiiTVZ/6QO6kwtHkZCA==
 
 "@types/node@16.9.1":
   version "16.9.1"
@@ -11186,9 +11186,9 @@ msgpackr-extract@^2.1.2:
     "@msgpackr-extract/msgpackr-extract-win32-x64" "2.1.2"
 
 msgpackr@^1.5.4:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/msgpackr/-/msgpackr-1.7.0.tgz#5e1fc80c43fbed0158809ce8b5f2ca1c1f8bb408"
-  integrity sha512-/lumbjWnrRn8mZ8TEJXbFpkRDSei94CcqwcgbyuE0hT2/f6az2Fmi4ojNUOUTS9T8AYyADrmoPvCiLL9+ufvsA==
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/msgpackr/-/msgpackr-1.7.1.tgz#ca2370921a53fb3820cf448ba6b8a46e2e5b2e5f"
+  integrity sha512-p2YUTuwFAUtoPACKPDfoibJn4oBuzSCXs0/AudNLqczL8R2Ult32987Ih69df5zaaMnWT/3JizgP8q8d3s2ZlQ==
   optionalDependencies:
     msgpackr-extract "^2.1.2"
 
