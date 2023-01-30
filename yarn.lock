@@ -16584,9 +16584,9 @@ valid-url@1.0.9, valid-url@^1.0.9:
   integrity sha1-HBRHm0DxOXp1eC8RXkCGRHQzogA=
 
 validate-color@^2.1.0:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/validate-color/-/validate-color-2.2.1.tgz#f97214883304f87eaa9dc1eb8e9d8cd8b606a5d1"
-  integrity sha512-1eDb1zqP6W6bbfKKl6dRXObelNoQpW7aF3BUTh2AivWuhcD0pa3ejwURWqrVsyKJMLBMlHLFcM3sj5J+dSFhbg==
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/validate-color/-/validate-color-2.2.3.tgz#482f1315e2791d2881b381b4f1a4460ea7675e2f"
+  integrity sha512-4DUrPp1UfRHVtq4nqMNr9bDVrmbdQZ1BUjfZVODPI+oKKUjATYsqigveaqDuxpQaYsiVfF6GAvueXJiKO4WXOA==
 
 validate-npm-package-license@^3.0.1:
   version "3.0.4"
