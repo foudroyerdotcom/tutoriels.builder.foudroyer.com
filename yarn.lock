@@ -2716,9 +2716,9 @@
     nullthrows "^1.1.1"
 
 "@petamoriken/float16@^3.4.7":
-  version "3.7.1"
-  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.7.1.tgz#4a0cc0854a3a101cc2d697272f120e1a05975ce5"
-  integrity sha512-oXZOc+aePd0FnhTWk15pyqK+Do87n0TyLV1nxdEougE95X/WXWDqmQobfhgnSY7QsWn5euZUWuDVeTQvoQ5VNw==
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.8.0.tgz#3a48b7938e1a62188a61ec02d5b12630f671401f"
+  integrity sha512-AhVAm6SQ+zgxIiOzwVdUcDmKlu/qU39FiYD2UD6kQQaVenrn0dGZewIghWAENGQsvC+1avLCuT+T2/3Gsp/W3w==
 
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.3":
   version "0.4.3"
