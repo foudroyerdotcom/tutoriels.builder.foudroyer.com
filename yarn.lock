@@ -3272,9 +3272,9 @@
     redux "^4.0.0"
 
 "@types/react@*":
-  version "18.0.31"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.31.tgz#a69ef8dd7bfa849734d258c793a8fe343a338205"
-  integrity sha512-EEG67of7DsvRDU6BLLI0p+k1GojDLz9+lZsnCpCRTa/lOokvyPBvp8S5x+A24hME3yyQuIipcP70KJ6H7Qupww==
+  version "18.0.32"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.32.tgz#5e88b2af6833251d54ec7fe86d393224499f41d5"
+  integrity sha512-gYGXdtPQ9Cj0w2Fwqg5/ak6BcK3Z15YgjSqtyDizWUfx7mQ8drs0NBUzRRsAdoFVTO8kJ8L2TL8Skm7OFPnLUw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -13758,9 +13758,9 @@ react-transition-group@^4.0.0, react-transition-group@^4.3.0:
     prop-types "^15.6.2"
 
 react-virtualized-auto-sizer@^1.0.2:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/react-virtualized-auto-sizer/-/react-virtualized-auto-sizer-1.0.9.tgz#0514a6fcefa64941050aaed66c0cb950f434d03d"
-  integrity sha512-O1pYgygCDtFKa9GaKJtX5Ws/QRqxkx2zPlXZqEoRXCMmnNuhoMk5nhXCQqixsc1AcrUzOJwKdzEaDAU9WQ6aJQ==
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/react-virtualized-auto-sizer/-/react-virtualized-auto-sizer-1.0.11.tgz#2ec880161c91327531f56b218d067736fd4ae3fe"
+  integrity sha512-v2YlC4KCnjEF7V5KtxrHCy50vPhbL73BS1qNOXFYaaE1XGeRqZHrGP+F4BE0QDv2pP+f1t9twL1n5pRp5GPMkQ==
 
 react-waypoint@^10.0.0:
   version "10.3.0"
