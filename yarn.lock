@@ -11418,9 +11418,9 @@ msgpackr-extract@^3.0.2:
     "@msgpackr-extract/msgpackr-extract-win32-x64" "3.0.2"
 
 msgpackr@^1.5.4:
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/msgpackr/-/msgpackr-1.9.3.tgz#33da3df4c24d61d7f3a3f9d45504ccd0b6dfb064"
-  integrity sha512-DIBUpLO8hZeXAt9Tud3PU9XwwV+Cfiquq9egBa52pSDcwKlBtzHnGR7y9jlUlWquCV6LxDY9qdfKCvory7XPTA==
+  version "1.9.4"
+  resolved "https://registry.yarnpkg.com/msgpackr/-/msgpackr-1.9.4.tgz#039ef7c46efb6bc17612a1819ae7386b2861c321"
+  integrity sha512-MihliU9Wgi5rVHmXYjXeB969jDBogwMVUn9CjrL8T2Na5+n5gsTJVGdeUHBplNtqEqgnm/nFnQYK8Bdzry5ahQ==
   optionalDependencies:
     msgpackr-extract "^3.0.2"
 
