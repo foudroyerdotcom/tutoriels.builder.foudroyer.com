@@ -1394,9 +1394,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.3.0.tgz#25888e46781e1fd1ac0188b26feb301fd8a52882"
-  integrity sha512-kRU1ynqXVxG55U/iObwr6haSRzpA82KoWuKnazLX2RPgoWBp1LMR+AjMP0g9bKg5LMfcaXdZ9KMLFANt7Y0c4Q==
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.4.0.tgz#8c489320d88670de25f164065fb5b94b7a148296"
+  integrity sha512-28BVBldSYpp0m6hrom8PnJHWEKE95006KbaPTQKuXjI4rqtR30O9cK+2y2qM2+Ivz1anI5SKJe2sXiX23ZXQsQ==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -3302,9 +3302,9 @@
     redux "^4.0.0"
 
 "@types/react@*":
-  version "18.2.16"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.16.tgz#403dda0e933caccac9efde569923239ac426786c"
-  integrity sha512-LLFWr12ZhBJ4YVw7neWLe6Pk7Ey5R9OCydfuMsz1L8bZxzaawJj2p06Q8/EFEHDeTBQNFLF62X+CG7B2zIyu0Q==
+  version "18.2.17"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.17.tgz#baa565b17ddb649c2dac85b5eaf9e9a1fe0f3b4e"
+  integrity sha512-u+e7OlgPPh+aryjOm5UJMX32OvB2E3QASOAqVMY6Ahs90djagxwv2ya0IctglNbNTexC12qCSMZG47KPfy1hAA==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
