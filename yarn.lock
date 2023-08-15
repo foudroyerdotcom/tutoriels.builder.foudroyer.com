@@ -2754,9 +2754,9 @@
     nullthrows "^1.1.1"
 
 "@petamoriken/float16@^3.4.7":
-  version "3.8.2"
-  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.8.2.tgz#12812f75b7def79ed76cbe40237c983b1c54cf51"
-  integrity sha512-TrVOB6T9kIrmGCp+mUIej7VJgQbB5MRWEj1ZksfR7hPSyc338xHxLO50spgpGBlbmk8D3kWOGnCHDfnaPV+Sng==
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.8.3.tgz#adf9dcb5d46b5976b347310f22ce247b8bb48ef9"
+  integrity sha512-an2OZ7/6er9Jja8EDUvU/tmtGIutdlb6LwXOwgjzoCjDRAsUd8sRZMBjoPEy78Xa9iOp+Kglk2CHgVwZuZbWbw==
 
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.3":
   version "0.4.3"
@@ -11923,9 +11923,9 @@ no-case@^3.0.4:
     tslib "^2.0.3"
 
 node-abi@^3.3.0:
-  version "3.45.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.45.0.tgz#f568f163a3bfca5aacfce1fbeee1fa2cc98441f5"
-  integrity sha512-iwXuFrMAcFVi/ZoZiqq8BzAdsLw9kxDfTC0HMyjXfSL/6CSDAGD5UmR7azrAgWV1zKYq7dUUMj4owusBWKLsiQ==
+  version "3.46.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.46.0.tgz#491adaa8d227ca9702f30b27b2b6b248caa1348f"
+  integrity sha512-LXvP3AqTIrtvH/jllXjkNVbYifpRbt9ThTtymSMSuHmhugQLAWr99QQFTm+ZRht9ziUvdGOgB+esme1C6iE6Lg==
   dependencies:
     semver "^7.3.5"
 
