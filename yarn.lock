@@ -1395,9 +1395,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.14.0.tgz#6af7d9404344fdc79e97a8e937755aabd9104d0a"
-  integrity sha512-KQ1HY+H2sPdx/KuA6UOmDWVBowQbJWN73V57cofQtXC0AqjT66GWTl2Hyf3a21CTqXlkYlkLgbJtL+GfQqB0NQ==
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.15.0.tgz#13f60fa53eefc6c5ea9af02879a008aaf98f9266"
+  integrity sha512-AXZiwBaA9AAghLbFaAB1LERdUMWGMvVn9Lx2Sw/htLXMq7FRj+brPpuxtIIDTn8EsGGuKzDXl2tVZIS6qBqqWw==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -9811,9 +9811,9 @@ jimp@^0.14.0:
     regenerator-runtime "^0.13.3"
 
 joi@^17.4.2:
-  version "17.9.2"
-  resolved "https://registry.yarnpkg.com/joi/-/joi-17.9.2.tgz#8b2e4724188369f55451aebd1d0b1d9482470690"
-  integrity sha512-Itk/r+V4Dx0V3c7RLFdRh12IOjySm2/WGPMubBT92cQvRfYZhPM2W0hZlctjj72iES8jsRCwp7S/cRmWBnJ4nw==
+  version "17.10.0"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-17.10.0.tgz#04e249daa24d48fada2d34046a8262e474b1326f"
+  integrity sha512-hrazgRSlhzacZ69LdcKfhi3Vu13z2yFfoAzmEov3yFIJlatTdVGUW6vle1zjH8qkzdCn/qGw8rapjqsObbYXAg==
   dependencies:
     "@hapi/hoek" "^9.0.0"
     "@hapi/topo" "^5.0.0"
