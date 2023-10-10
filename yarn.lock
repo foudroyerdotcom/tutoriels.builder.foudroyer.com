@@ -1400,9 +1400,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.28.1"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.28.1.tgz#5d502a3ca766f3dd87d39a809318cb09f67a91be"
-  integrity sha512-N7tVDghCfIHm/cbQtCkEs2gsAjFRWtGaSDu8ZSf7DrkX3f7Aed/y8mPtvIFquxH066Wr/6q0xNKm5W06wAlPAg==
+  version "0.30.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.30.0.tgz#b791147362307072276ef8310f5fbaac1b2ff161"
+  integrity sha512-teKGn90fngb3dG/XpEnzky4U2SgbSRG/AJZrFS6GHp2oRoyxS68+3o1i5MvQKVAAjMSpufLrjpPd6dvPB73Iyw==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -3246,9 +3246,11 @@
     form-data "^3.0.0"
 
 "@types/node@*", "@types/node@>=6":
-  version "20.8.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.8.3.tgz#c4ae2bb1cfab2999ed441a95c122bbbe1567a66d"
-  integrity sha512-jxiZQFpb+NlH5kjW49vXxvxTjeeqlbsnTAdBTKpzEdPs9itay7MscYXz3Fo9VYFEsfQ6LJFitHad3faerLAjCw==
+  version "20.8.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.8.4.tgz#0e9ebb2ff29d5c3302fc84477d066fa7c6b441aa"
+  integrity sha512-ZVPnqU58giiCjSxjVUESDtdPk4QR5WQhhINbc9UBrKLU68MX5BF6kbQzTrkwbolyr0X8ChBpXfavr5mZFKZQ5A==
+  dependencies:
+    undici-types "~5.25.1"
 
 "@types/node@16.9.1":
   version "16.9.1"
@@ -3313,9 +3315,9 @@
     redux "^4.0.0"
 
 "@types/react@*":
-  version "18.2.25"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.25.tgz#99fa44154132979e870ff409dc5b6e67f06f0199"
-  integrity sha512-24xqse6+VByVLIr+xWaQ9muX1B4bXJKXBbjszbld/UEDslGLY53+ZucF44HCmLbMPejTzGG9XgR+3m2/Wqu1kw==
+  version "18.2.27"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.27.tgz#746e52b06f3ccd5d7a724fd53769b70792601440"
+  integrity sha512-Wfv7B7FZiR2r3MIqbAlXoY1+tXm4bOqfz4oRr+nyXdBqapDBZ0l/IGcSlAfvxIHEEJjkPU0MYAc/BlFPOcrgLw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -16318,6 +16320,11 @@ underscore.string@^3.3.5:
   dependencies:
     sprintf-js "^1.1.1"
     util-deprecate "^1.0.2"
+
+undici-types@~5.25.1:
+  version "5.25.3"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-5.25.3.tgz#e044115914c85f0bcbb229f346ab739f064998c3"
+  integrity sha512-Ga1jfYwRn7+cP9v8auvEXN1rX3sWqlayd4HP7OKk4mZWylEmu3KzXDUGrQUN6Ol7qo1gPvB2e5gX6udnyEPgdA==
 
 unherit@^1.0.4:
   version "1.1.3"
