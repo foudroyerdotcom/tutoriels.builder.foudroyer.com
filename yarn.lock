@@ -1162,9 +1162,9 @@
     to-fast-properties "^2.0.0"
 
 "@babel/types@^7.22.15":
-  version "7.23.0"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.23.0.tgz#8c1f020c9df0e737e4e247c0619f58c68458aaeb"
-  integrity sha512-0oIyUfKoI3mSqMvsxBdclDwxXKXAUA8v/apZbc+iSyARYou1o8ZGDxbUYyLFoW2arqS2jDGqJuZvv1d/io1axg==
+  version "7.23.3"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.23.3.tgz#d5ea892c07f2ec371ac704420f4dcdb07b5f9598"
+  integrity sha512-OZnvoH2l8PK5eUvEcUyCt/sXgr/h+UWpVuBbOljwcrAgUl6lpchoQ++PHGyQy1AtYnVA6CEq3y5xeEI10brpXw==
   dependencies:
     "@babel/helper-string-parser" "^7.22.5"
     "@babel/helper-validator-identifier" "^7.22.20"
@@ -1400,9 +1400,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.40.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.40.0.tgz#652d0b693733a1eb9e8621e6e424a8229ea22a08"
-  integrity sha512-7CO5uId32IGm9sG7DM1M5FeZVzltV+fMHCg0+GugB7zbZCTVpzrYLAtJ1bZOQ0mjkLmHdXNUZRL3BVbT9s2QlA==
+  version "0.43.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.43.0.tgz#aa30b79c356dd6568de703f44123e55a0ee9f40c"
+  integrity sha512-08rhWDWatfJIx35PXUFeMAvJiJrjuKQuJXXlJxFEOgjCJfU05bPOXqZe1AlHfGa5e0oZ/7iKojt+rF591vhq1g==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
