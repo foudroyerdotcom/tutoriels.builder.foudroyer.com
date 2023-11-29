@@ -12425,9 +12425,9 @@ optionator@^0.9.1:
     word-wrap "^1.2.3"
 
 ordered-binary@^1.2.4:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/ordered-binary/-/ordered-binary-1.5.0.tgz#11870c7b20115b216063ee3bf46ec4df1f1111a3"
-  integrity sha512-++aU7c311tYsAmveDwjhZDT5G8DyS4skHCUtJieEU3aYwiKaPqnn+QQaLXZyXfQqK0JaLh4Q1Jr0Dx/BpxjEKg==
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/ordered-binary/-/ordered-binary-1.5.1.tgz#94ccbf14181711081ee23931db0dc3f58aaa0df6"
+  integrity sha512-5VyHfHY3cd0iza71JepYG50My+YUbrFtGoUz2ooEydPyPM7Aai/JW098juLr+RG6+rDJuzNNTsEQu2DZa1A41A==
 
 os-tmpdir@~1.0.2:
   version "1.0.2"
