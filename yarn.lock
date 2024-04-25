@@ -1401,9 +1401,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.64.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.64.0.tgz#d3bafbe2275ca7b8dc5166e0aa3428004adfea99"
-  integrity sha512-BuluYQc4qgSerxNb0skJD28j2mDV+JaqcVQJrBtUOdSeEkiryO30kdBzhxrTxji1WAPFF4WvGgppLqxND+QU7A==
+  version "0.65.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.65.0.tgz#b986aec841c586292b135ca82ab5a364973edb8d"
+  integrity sha512-zbYdVoB15nsU5GX1Gm4ykzctGrNK7KvPEJObDaj34WFDih7VNLodHSxUysLBl2Ruts15T7q/MJsMtO/8V3xKBw==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
