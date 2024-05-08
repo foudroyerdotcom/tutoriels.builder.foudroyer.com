@@ -1401,9 +1401,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.69.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.69.0.tgz#a06797e661f23ab8556ca540946a0d0f0d6753df"
-  integrity sha512-FnlR+5woLov9RSqNnYHKys6iz9ngWf/mXB+Cnz8ICUiNK8I/z6Ea1Cco40qdcftZiW2Ue1jUOuoqA/q08J9Tow==
+  version "0.70.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.70.0.tgz#14cdc8c0c9be78a4238c802639326a393bff6fbb"
+  integrity sha512-3lCwPBqKgR888T+tIwEMeCVL4zICKCZ7hLJN3VJCkmSU8K2xbJrc3cA5PaQu+4YWTrH0xmaag+xN2iqVtDUl/A==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -14956,11 +14956,9 @@ semver@^7.2.1, semver@^7.3.4:
     lru-cache "^6.0.0"
 
 semver@^7.3.5, semver@^7.3.7:
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.0.tgz#1a46a4db4bffcccd97b743b5005c8325f23d4e2d"
-  integrity sha512-EnwXhrlwXMk9gKu5/flx5sv/an57AkRplG3hTK68W7FRDN+k+OWBj65M7719OkA82XLBxrcX0KSHj+X5COhOVg==
-  dependencies:
-    lru-cache "^6.0.0"
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.1.tgz#60bfe090bf907a25aa8119a72b9f90ef7ca281b2"
+  integrity sha512-f/vbBsu+fOiYt+lmwZV0rVwJScl46HppnOA1ZvIuBWKOTlllpyJ3bfVax76/OrhCH38dyxoDIA8K7uB963IYgA==
 
 send@0.18.0:
   version "0.18.0"
