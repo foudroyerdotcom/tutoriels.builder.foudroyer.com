@@ -1401,9 +1401,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.70.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.70.0.tgz#14cdc8c0c9be78a4238c802639326a393bff6fbb"
-  integrity sha512-3lCwPBqKgR888T+tIwEMeCVL4zICKCZ7hLJN3VJCkmSU8K2xbJrc3cA5PaQu+4YWTrH0xmaag+xN2iqVtDUl/A==
+  version "0.71.1"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.71.1.tgz#b4941c1388d77d7f504ef1666517f90d98a621dd"
+  integrity sha512-Wd823rAm0enYa9+ZcCsJ0pGmlQklordG8xLQvU2KqlYkYN/fP4R1AYpqkUA5wnAwW7diQ+BBTETYZJLQTYAdWQ==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -6090,9 +6090,9 @@ domhandler@^4.0.0, domhandler@^4.2.0, domhandler@^4.3.1:
     domelementtype "^2.2.0"
 
 dompurify@^2.2.6:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.5.3.tgz#bc901a9c40a7d97176c1d0ab9a24939db54270a2"
-  integrity sha512-09uyBM2URzOfXMUAqGRnm9R9IUeSkzO9PktXc2eVQIsBmmJUqRmfL1xW2QPBxVJEtlEVs5d8ndrsIQsyAqs81g==
+  version "2.5.4"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.5.4.tgz#347e91070963b22db31c7c8d0ce9a0a2c3c08746"
+  integrity sha512-l5NNozANzaLPPe0XaAwvg3uZcHtDBnziX/HjsY1UcDj1MxTK8Dd0Kv096jyPK5HRzs/XM5IMj20dW8Fk+HnbUA==
 
 domutils@1.5.1:
   version "1.5.1"
