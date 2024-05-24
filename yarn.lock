@@ -1401,9 +1401,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.71.1"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.71.1.tgz#b4941c1388d77d7f504ef1666517f90d98a621dd"
-  integrity sha512-Wd823rAm0enYa9+ZcCsJ0pGmlQklordG8xLQvU2KqlYkYN/fP4R1AYpqkUA5wnAwW7diQ+BBTETYZJLQTYAdWQ==
+  version "0.72.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.72.0.tgz#b8859d835a5d797110e796d0f35fcd952085121e"
+  integrity sha512-+tEw3+tuBZNLrMDW6t0Kw+W+Oz54MLmOqIHAqeTL67zqBcEyp+d5hu84YKHYOiedKY1T60RnH5pUY16gZeklIA==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -3316,9 +3316,9 @@
     redux "^4.0.0"
 
 "@types/react@*":
-  version "18.3.2"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.3.2.tgz#462ae4904973bc212fa910424d901e3d137dbfcd"
-  integrity sha512-Btgg89dAnqD4vV7R3hlwOxgqobUQKgx3MmrQRi0yYbs/P0ym8XozIAlkqVilPqHQwXs4e9Tf63rrCgl58BcO4w==
+  version "18.3.3"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.3.3.tgz#9679020895318b0915d7a3ab004d92d33375c45f"
+  integrity sha512-hti/R0pS0q1/xx+TsI73XIqk26eBsISZ2R0wUijXIngRK9R/e7Xw/cXVxQK7R5JjW+SV4zGcn5hXjudkN/pLIw==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
