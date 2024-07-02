@@ -1471,9 +1471,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.81.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.81.0.tgz#2651a591e6907ca1d8128bfb20379599f2a30ab7"
-  integrity sha512-adrRUPCOBXS0slnY7wIfJkM2jyStVOrNHUYDv0LOFVlUs4uf5IxXVtfjIKAmJk0KC89XzUGV3dWJsxvwjEbHUg==
+  version "0.82.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.82.0.tgz#62cdd39390a8457e163f789496a9fc9879e009a3"
+  integrity sha512-4tXCcfczsb3cHieMI01gCESfa6qs9r0yW0NdxKDe0Wmk4Qj4JBvrrY6+pDMezmSvq+vlUUcoeAT1nFsiXKfXeQ==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -13677,9 +13677,9 @@ qs@6.10.3, qs@^6.9.4:
     side-channel "^1.0.4"
 
 qs@^6.11.2:
-  version "6.12.1"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.12.1.tgz#39422111ca7cbdb70425541cba20c7d7b216599a"
-  integrity sha512-zWmv4RSuB9r2mYQw3zxQuHWeU+42aKi1wWig/j4ele4ygELZ7PEO6MM7rim9oAQH2A5MWfsAVf/jPvTPgCbvUQ==
+  version "6.12.2"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.12.2.tgz#5443b587f3bf73ac68968de491e5b25bafe04478"
+  integrity sha512-x+NLUpx9SYrcwXtX7ob1gnkSems4i/mGZX5SlYxwIau6RrUSODO89TR/XDGGpn5RPWSYIB+aSfuSlV5+CmbTBg==
   dependencies:
     side-channel "^1.0.6"
 
