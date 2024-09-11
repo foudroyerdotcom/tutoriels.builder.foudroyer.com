@@ -1441,9 +1441,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.86.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.86.0.tgz#4aba26f19618a7da7cd1520b8026281c3bdc87cd"
-  integrity sha512-VNsBXoQxq6B7dXnZABaWCjwqFooPE3+Bq0XbaeZuH6NFoYXVyFd2XGrVEbj28guCwzu7/DdZeNV6f0OAanle+Q==
+  version "0.87.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.87.0.tgz#df669a1925ffb4a5fe4695ef8e28560eff786256"
+  integrity sha512-41d0piZCVmGX8EgTT/ETyYb9DtsK4wSzjnanshf7S4n8F5jWAMZRepzVHgN8vItREVMwopBfyNEMtrd10rNYKQ==
 
 "@foudroyer/purity@^1.0.6":
   version "1.18.9"
@@ -12972,9 +12972,9 @@ path-to-regexp@0.1.7:
   integrity sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=
 
 path-to-regexp@^1.7.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-1.8.0.tgz#887b3ba9d84393e87a0a0b9f4cb756198b53548a"
-  integrity sha512-n43JRhlUKUAlibEJhPeir1ncUID16QnEjNpwzNdO3Lm4ywrBpBZ5oLD0I6br9evr1Y9JTqwRtAh7JLoOzAQdVA==
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-1.9.0.tgz#5dc0753acbf8521ca2e0f137b4578b917b10cf24"
+  integrity sha512-xIp7/apCFJuUHdDLWe8O1HIkb0kQrOMb/0u6FXQjemHn/ii5LrIzU6bdECnsiTF/GjZkMEKg1xdiZwNqDYlZ6g==
   dependencies:
     isarray "0.0.1"
 
@@ -13570,9 +13570,9 @@ pseudomap@^1.0.1, pseudomap@^1.0.2:
   integrity sha1-8FKijacOYYkX7wqKw0wa5aaChrM=
 
 pump@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.0.tgz#b4a2116815bde2f4e1ea602354e8c75565107a64"
-  integrity sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.1.tgz#cf711a61348b26a05ad8ce598e50d7e0ea03d398"
+  integrity sha512-2ynnAmUu45oUSq51AQbeugLkMSKaz8FqVpZ6ykTqzOVkzXe8u/ezkGsYrFJqKZx+D9cVxoDrSbR7CeAwxFa5cQ==
   dependencies:
     end-of-stream "^1.1.0"
     once "^1.3.1"
