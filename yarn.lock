@@ -2818,9 +2818,9 @@
     nullthrows "^1.1.1"
 
 "@petamoriken/float16@^3.4.7":
-  version "3.8.7"
-  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.8.7.tgz#16073fb1b9867eaa5b254573484d09100700aaa4"
-  integrity sha512-/Ri4xDDpe12NT6Ex/DRgHzLlobiQXEW/hmG08w1wj/YU7hLemk97c+zHQFp0iZQ9r7YqgLEXZR2sls4HxBf9NA==
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/@petamoriken/float16/-/float16-3.9.0.tgz#4e4d129958ba77ed36e6bb3081ac6b8b427df6f8"
+  integrity sha512-rYUZ+VFjPHD0NT2JYKj64NxXxrV642IiyaUxxorTEj0S3hT7B5Ixezyc9Fn+XvSk0ETEBp5VWjGIErzh0ug0Xw==
 
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.3":
   version "0.4.3"
@@ -3305,9 +3305,9 @@
     form-data "^3.0.0"
 
 "@types/node@*", "@types/node@>=6":
-  version "22.9.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.9.2.tgz#51e58f2bf29cc38f529dacbb0eafca890464138e"
-  integrity sha512-wwuxAVEbsRvDD9x7buvAl7DyQ7Oj+va/d/Veug7higYzp9MF0CINbfWTBgDFMpcVwcdUiYuNmX2KfnvY3N70mw==
+  version "22.9.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.9.3.tgz#08f3d64b3bc6d74b162d36f60213e8a6704ef2b4"
+  integrity sha512-F3u1fs/fce3FFk+DAxbxc78DF8x0cY09RRL8GnXLmkJ1jvx3TtPdWoTT5/NiYfI5ASqXBmfqJi9dZ3gxMx4lzw==
   dependencies:
     undici-types "~6.19.8"
 
